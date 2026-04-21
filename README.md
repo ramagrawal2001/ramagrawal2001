@@ -22,6 +22,7 @@
 ## 🛠️ Tech Stack
 
 **Frontend**
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -29,14 +30,17 @@
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
 
 **Mobile**
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
 **Backend**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 
 **Database & Cloud**
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
@@ -46,9 +50,19 @@
 
 ## 📊 GitHub Stats
 
-![Ram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramagrawal2001&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Ram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramagrawal2001&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramagrawal2001&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramagrawal2001&layout=compact&theme=github_dark&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ramagrawal2001&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+## 🔨 Currently Working On
+
+- 🌐 Building full-stack projects to showcase React + Node.js + Flutter skills
+- 📱 Exploring advanced Flutter animations and state management patterns
+- 🧩 Solving DSA problems daily on LeetCode (current rating: 1608)
 
 ---
 
@@ -59,6 +73,5 @@
 - 🔵 **Google Code Jam 2023** — Participant
 
 ---
-
 
 💬 Feel free to reach out — always open to interesting conversations and collaborations!
